@@ -31,7 +31,7 @@ const router = createRouter({
     },
     {
       path: '/add-culture',
-      name: 'creators',
+      name: 'add-culture',
       component: AddCultureView
     },
     {
